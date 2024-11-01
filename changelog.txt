@@ -1,0 +1,44 @@
+== Changelog ==
+= 1.8.6 =
+Release Date: March 4th, 2023
+
+- Add ability to inject or not css in wpblast cache
+
+= 1.8.5 =
+Release Date: December 13th, 2022
+
+- Improve performance on large websites
+- Improve advanced-cache updates for nitropack and wp rocket
+- Improve mu-plugins updates for nitropack
+
+= 1.8.4 =
+Release Date: December 7th, 2022
+
+- Improve WP Rocket crawler management
+- Improve Nitropack compatibility
+- Fix error that could happened in crawler detection
+
+= 1.8.3 =
+Release Date: November 11th, 2022
+
+Fix bug that could happened with plugin WP Fastest Cache
+
+= 1.8.2 =
+Release Date: November 3rd, 2022
+
+Fix French translation and update compatibility with WP 6.1
+
+= 1.8.1 =
+Release Date: October 30th, 2022
+
+A lot of new features came with this release! Main new feature: a new dashboard section that will allow to have a better view for every pagespeed scores of the website.
+
+= 1.7.4 =
+Release Date: September 4th, 2022
+
+WP Blast is now compliant with WordPress Coding Standards!
+
+= 1.7.3 =
+Release Date: August 15th, 2022
+
+WP Blast plugin is now released to official WordPress repository! This release will help facilitate the updates of the plugin while allowing more websites to take advantage of the Dynamic Rendering technology.
